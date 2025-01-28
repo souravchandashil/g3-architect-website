@@ -202,6 +202,26 @@ justify-content: center;
   filter: grayscale(100%);
 }
 
+/* footer footer */
+
+footer{
+  max-width:1440px;
+  height: 100px;
+  margin:0 auto ;
+  border-radius: 8px;
+  background-color: #FFF4E7;
+  margin-top:50px;
+  /* align-items: center; */
+ 
+}
+.foot{
+justify-content: center;
+padding: 30px 380px;
+
+
+}
+
+
   /* responsive media quari */
 
 @media screen and (max-width:576px) {
